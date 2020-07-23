@@ -17,10 +17,9 @@ def search():
     meaning=soup.find('ol', class_='sense')
     result=meaning.find_all('div' , 'custom_entry')
     output="."
-    for result in result:{
-        output=+ result.text + "\n\n"
+    for result in result:
+        output= output + result.text + "\n\n"
         #temp=output;
-        }
     return render_template('meaning.html', mean=output)
 
     #return redirect(url_for)output 
