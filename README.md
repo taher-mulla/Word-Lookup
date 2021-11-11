@@ -30,7 +30,7 @@ Currently, this application uses python for the backend work, I have used python
 
 ## Author Info
 
- - [Linkdin](www.linkedin.com/in/taher-mulla-8b9546136) 
+ - [Linkdin](www.linkedin.com/in/taher-mulla) 
 
  - [GitHub](https://github.com/taher-mulla)
 
